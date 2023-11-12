@@ -8,7 +8,7 @@ Just a simple blog made in Django.
 
 Clone the repo
 
-    git clone https://gitlab.com/deafmice/django_blog.git
+    git clone https://github.com/ephergent/django_blog.git
 
 Change to the repo directory
 
